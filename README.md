@@ -18,4 +18,3 @@ are able to place a tile.
 because neither player can play. If that occurs, whoever caused the block wins.
 - The program currently outputs the tiles played by the player in every turn and when the player picks from the stack.
 - The program also outputs the player whos wins the game along the tiles played.
-Example (Screenshot 2021-05-21 at 1.34.04 PM.png)
