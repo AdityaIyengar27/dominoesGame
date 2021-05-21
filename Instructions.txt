@@ -1,0 +1,18 @@
+Kindly run the following command on a machine which has python 2.7 or higher available.
+
+Command to run task.py file:
+
+python task.py
+
+Command to run task_different_strategy.py file:
+
+python task_different_strategy.py
+
+Command to run task_player_vs_player.py file:
+
+python task_player_vs_player.py
+
+[In the program "task_player_vs_player.py", every player is given the option to play
+the tile of his choice from the tiles that can be played legally. The decision and strategy
+is determined by the players. The player has to enter his choice of tile in the prompt.
+If there is no legal tile to be played, then the program automatically draws a tile for the user.]
