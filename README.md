@@ -16,6 +16,9 @@ one of the two ends of the line. Let's keep it simple and play any tile on playe
 are able to place a tile.
 - The game ends when one player wins by playing their last tile, or when the game is blocked
 because neither player can play. If that occurs, whoever caused the block wins.
+- The program "task_player_vs_player.py" asks the user to input the tile that can be played of his choice from the tiles that can be played legally. The decision and strategy is determined by the players. The player has to enter his choice of tile in the prompt.
+If there is no legal tile to be played, then the program automatically draws a tile for the user.
+- The program "task.py" automatically plays instead of asking the user.
 - The program currently outputs the tiles played by the player in every turn and when the player picks from the stack.
 - The program also outputs the player whos wins the game along the tiles played.
 - For example :
